@@ -1,0 +1,7 @@
+app:
+  page_size: 10
+  jwt: 23347$040412
+server:
+  port: :8082
+mysql:
+  dsn: "root:peter63674782@tcp(127.0.0.1:3306)/deferStore?charset=utf8mb4&parseTime=True&loc=Local"
